@@ -1,10 +1,10 @@
 import React from "react";
-import Message from "./Components/Message";
+import ListGroup from "./components/ListGroup";
 
 export default function App() {
   return (
     <div>
-      <Message />
+      <ListGroup />
     </div>
   );
 }
